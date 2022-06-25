@@ -37,10 +37,10 @@ hr{
   border-radius:50%;
 }
 .skills-image{
-  width: 25%;
+  width:680px;
+  height:420px;
   border-radius:50%;
-  float: left;
-  margin-right: 30px;
+
 }
 .contact-image{
   width:680px;
@@ -55,10 +55,9 @@ hr{
 
 }
 .skill-row{
-  width: 50%;
-  margin: 100px auto 100px auto;
-  text-align: left;
+
   line-height: 2;
+  margin-bottom: 100px;
 
 }
 
